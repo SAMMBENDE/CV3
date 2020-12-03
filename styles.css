@@ -96,18 +96,18 @@ body{
 	display: flex;
 	align-items: center;
 	width: 100%;
-	margin-bottom: 8px;
+	margin-bottom: 10px;
 }
 
 .contact .li_wrap .icon{
 	width: 20px;
 	height: 20px;
 	color: #fff;
-	border-radius: 15px;
+	border-radius: 5px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-right: 20px;
+	margin-right: 10px;
 }
 
 .contact .li_wrap .text{

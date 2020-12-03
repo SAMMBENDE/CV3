@@ -55,13 +55,24 @@ body{
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	padding-bottom: 5px;
-	color: #3525af;
+	color: #fbfbfd;
+	position: relative;
+	text-align: right;
+	margin-bottom: 5px;
+}
+.title2{
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding-bottom: 5px;
+	color: black;
 	position: relative;
 	text-align: right;
 	margin-bottom: 5px;
 }
 
-.title:before{
+/* .title:before{
 	content: "";
 	position: absolute;
 	top: 25px;
@@ -69,7 +80,7 @@ body{
 	width: 50px;
 	height: 3px;
 	background: #3525af;
-}
+} */
 
 .left .icon{
 	font-size: 20px;
@@ -96,7 +107,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-right: 10px;
+	margin-right: 20px;
 }
 
 .contact .li_wrap .text{

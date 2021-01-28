@@ -130,7 +130,11 @@ body{
     margin-left: 16px;
     margin-top: 5px;            
 }
-
+.ifocop {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+}
 .skills ul,
 .hobbies ul{
 	display: flex;
@@ -196,7 +200,7 @@ body{
 
 .header .role{
 	font-weight: 300;
-	font-size: 20px;
+	font-size: 50px;
 }
 
 .header .about{
